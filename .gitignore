@@ -1,0 +1,24 @@
+# dependencies
+node_modules
+
+# production
+dist
+build
+
+# logs and backups
+logs
+*.log
+*.swp
+*.bak
+*.backup
+
+# dotenv environment variables file
+.env
+
+# IDE configuration files
+.vscode
+.idea
+
+# misc
+.DS_Store
+Thumbs.db
